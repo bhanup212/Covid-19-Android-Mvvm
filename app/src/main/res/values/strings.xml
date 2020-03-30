@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Covid-19</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="total_confirmed_cases">Total Confirmed Cases</string>
+    <string name="active_cases">Active cases</string>
+    <string name="recovered_cases">Recovered cases</string>
+    <string name="fatal_cases">Fatal cases</string>
+    <string name="last_updated">Last updated:</string>
+</resources>

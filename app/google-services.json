@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "999191117450",
+    "firebase_url": "https://covid-19-23e9d.firebaseio.com",
+    "project_id": "covid-19-23e9d",
+    "storage_bucket": "covid-19-23e9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999191117450:android:2c03fb05bfb49bc86eb773",
+        "android_client_info": {
+          "package_name": "com.bhanupro.covid_19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999191117450-0pcqrveaau9v1t1ttn5lfhjk3b2k6jie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADHnVUE1dtrkboC0eFNMXAOzEI8txzjg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999191117450-0pcqrveaau9v1t1ttn5lfhjk3b2k6jie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
